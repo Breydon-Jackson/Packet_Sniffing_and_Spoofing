@@ -9,7 +9,7 @@ The objective of this lab was to gain experience with packet sniffing and spoofi
 - Seed Lab's Ubuntu VM
 - Files Provided by SEED Labs
 
-## Pictures
+## Tasks
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/dccf540b-865d-4ad6-a338-f4e2f2b4e5f2" />
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/1d0f6e2d-678b-4331-bc44-214eca7857d1" />
